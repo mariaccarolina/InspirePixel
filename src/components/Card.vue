@@ -16,6 +16,7 @@ defineProps(["imagem"]);
 .card{
     //border: solid;
     width: 35vw;
+
    
     img{
         width: 100%;
